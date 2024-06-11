@@ -1,4 +1,4 @@
-package com.example.myproject1
+package com.example.myproject2
 
 fun main(){
 
